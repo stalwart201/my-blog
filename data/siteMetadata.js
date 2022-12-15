@@ -7,7 +7,7 @@ const siteMetadata = {
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
-  siteLogo: '/static/images/think.svg',
+  siteLogo: '/static/images/logo.svg',
   image: '/static/images/samurai.svg',
   socialBanner: '/static/images/twitter-card.png',
   email: 'stalwart201@gmail.com',
@@ -30,7 +30,7 @@ const siteMetadata = {
   newsletter: {
     // supports mailchimp, buttondown, convertkit, klaviyo, revue, emailoctopus
     // Please add your .env file and modify it according to your selection
-    provider: 'buttondown',
+    provider: '',
   },
   comment: {
     // If you want to use a commenting system other than giscus you have to add it to the
