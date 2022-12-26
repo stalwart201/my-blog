@@ -9,8 +9,8 @@ linkedin: https://www.linkedin.com/in/stalwart201
 github: https://github.com/stalwart201
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Rishabh a.k.a stalwart201 is an engineer with a passion for crafting intuitive user experiences. With over 5 years of experience working in MNC and startup organizations, he has gained the ability to think outside the box and acquired the agility to derive quick and efficient results. His core competence lies in being able to visualize effective interfaces and write scalable APIs to back them.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+He is a Frontend Engineer at [CleverTap](https://clevertap.com) in Mumbai, India. When not working he likes to play MOBA games like Dota2, League of legends. Loves cooking food as well, but currently food choices are limited due to food allergies. Hopefully these allergens be weakening with time.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+You will most likely find him exploring something around web, hybrid apps or stalking design and creatives at dribbble. Learning figma currently!
